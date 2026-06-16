@@ -44,3 +44,10 @@ input {
    justify-content: center;
    display: flex;
 }
+
+.tituloGame {
+   color: #FF0000;
+   size: 40px;
+   background-color: #FFFFFF;
+   border-radius: 5px;
+}
