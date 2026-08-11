@@ -6,6 +6,8 @@ Linguagens e ferramentas utilizadas:
 - CSS
 - JavaScript
 - NodeJS
+- Bash
 
 Projetos catalogados:
-- [Site de vendas](pisca_games). 
+- [Site de vendas](Projeto_PáginaLoja). 
+- [API em Node](Projeto_APINodeJS)
