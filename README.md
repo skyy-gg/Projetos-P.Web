@@ -7,6 +7,7 @@ Linguagens e ferramentas utilizadas:
 - JavaScript
 - NodeJS
 - Bash
+- SQL
 
 Projetos catalogados:
 - [Site de vendas](Projeto_PáginaLoja). 
