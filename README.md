@@ -12,3 +12,4 @@ Linguagens e ferramentas utilizadas:
 Projetos catalogados:
 - [Site de vendas](Projeto_PáginaLoja). 
 - [API em Node](Projeto_APINodeJS)
+- [API em Node - Ericles | Completo](projetoNodeJS_Ericles)
